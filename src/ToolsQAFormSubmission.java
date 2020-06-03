@@ -26,6 +26,7 @@ public class ToolsQAFormSubmission {
         js.executeScript("arguments[0].scrollIntoView();", btnSubmit);
         btnSubmit.click();
         Assert.assertEquals(!driver.findElement(By.id("output")).getText().isEmpty(), true);
+        driver.close();
         
     }
 }
