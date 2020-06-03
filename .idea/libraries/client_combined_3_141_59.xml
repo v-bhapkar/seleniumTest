@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="client-combined-3.141.59">
+    <CLASSES>
+      <root url="jar://E:/Softwares/Selenium/selenium-java-3.141.59/client-combined-3.141.59.jar!/" />
+      <root url="file://E:/Softwares/Selenium/selenium-java-3.141.59/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/Softwares/Selenium/selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://E:/Softwares/Selenium/selenium-java-3.141.59/libs" recursive="false" />
+  </library>
+</component>

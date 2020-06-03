@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="selenium-chrome-driver-3.141.59-javadoc">
+    <CLASSES>
+      <root url="jar://E:/Softwares/Selenium/selenium-server-standalone-3.141.59.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/Softwares/Selenium/selenium-chrome-driver-3.141.59-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
